@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-04-27 03:00 (IR Time)
+- 📥 **[v2rayNG_2.0.18-fdroid_arm64-v8a.apk](https://github.com/mohsen2mtv/sandbox/raw/main/dl/v2rayNG_2.0.18-fdroid_arm64-v8a.apk)**
+
+
 ### 📅 2026-04-27 02:52 (IR Time)
 - 📥 **[v2rayNG_2.0.18-fdroid_arm64-v8a.apk](https://github.com/mohsen2mtv/sandbox/raw/main/dl/v2rayNG_2.0.18-fdroid_arm64-v8a.apk)**
 
